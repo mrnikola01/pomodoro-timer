@@ -2,7 +2,7 @@
 // import './style.css';
 
 // Write Javascript code!
-const SESSION_LENGTH = 15;
+const SESSION_LENGTH = 1500;
 const SHORT_BREAK_LENGTH = 300;
 const LONG_BREAK_LENGTH = 600;
 
